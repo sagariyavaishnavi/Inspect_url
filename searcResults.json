@@ -1,0 +1,58 @@
+[
+  {
+    "url": "https://blocked.com",
+    "status": "valid",
+    "blocked": false,
+    "accessedAt": "2025-01-09T09:19:03.465Z"
+  },
+  {
+    "url": "https://blocked.com",
+    "status": "blocked",
+    "blocked": true,
+    "accessedAt": "2025-01-09T09:21:46.252Z"
+  },
+  {
+    "url": "https://vaishnavi.com/?a=vai&b=2",
+    "status": "valid",
+    "blocked": false,
+    "accessedAt": "2025-01-09T09:22:05.380Z",
+    "searchParams": {
+      "a": "vai",
+      "b": "2"
+    }
+  },
+  {
+    "url": "https://google.com",
+    "status": "valid",
+    "blocked": false,
+    "accessedAt": "2025-01-09T09:23:05.900Z"
+  },
+  {
+    "url": "https://google.com",
+    "status": "valid",
+    "blocked": false,
+    "accessedAt": "2025-01-09T09:24:04.241Z"
+  },
+  {
+    "url": "https://vaishnavi.com/?a=vai&b=2",
+    "status": "valid",
+    "blocked": false,
+    "accessedAt": "2025-01-09T09:24:17.766Z",
+    "searchParams": {
+      "a": "vai",
+      "b": "2"
+    }
+  },
+  {
+    "url": "https://blocked.com",
+    "status": "blocked",
+    "blocked": true,
+    "accessedAt": "2025-01-09T09:24:39.999Z"
+  },
+  {
+    "url": "https://blocked.com",
+    "status": "blocked",
+    "blocked": true,
+    "accessedAt": "2025-01-09T09:25:59.151Z"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://vaishnavi.com/?a=vai&b=2",
+    "searchParams": {
+      "a": "vai",
+      "b": "2"
+    },
+    "accessedAt": "2025-01-09T09:22:05.382Z"
+  },
+  {
+    "url": "https://vaishnavi.com/?a=vai&b=2",
+    "searchParams": {
+      "a": "vai",
+      "b": "2"
+    },
+    "accessedAt": "2025-01-09T09:24:17.768Z"
+  },
+  {
+    "url": "https://vaishnavi.com/?a=vai&b=2",
+    "searchParams": {
+      "a": "vai",
+      "b": "2"
+    },
+    "accessedAt": "2025-01-09T09:28:28.748Z"
+  },
+  {
+    "url": "https://vaishnavi.com/?a=vai&b=2",
+    "status": "valid",
+    "blocked": false,
+    "accessedAt": "2025-01-09T09:28:28.746Z",
+    "searchParams": {
+      "a": "vai",
+      "b": "2"
+    }
+  },
+  {
+    "url": "https://google.com",
+    "status": "valid",
+    "blocked": false,
+    "accessedAt": "2025-01-09T09:28:49.965Z"
+  }
+]
